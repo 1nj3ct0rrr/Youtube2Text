@@ -23,3 +23,41 @@ In this project, apart from the *ReadMe.md* file, you can see the following 3 fi
   1. Youtube2Text.py 👉 This is the full source of this notebook (Descriptions and other items in this file are commented and not run)
   2. Youtube2Text.pdf 👉 This PDF is actually a printout of the project notebook page that you can read very easily and you can also see the output in this file 😁
   3. Youtube2Text.ipynb 👉 This is a project notebook file that you can open in *Google Colab* or *Jupyter* and view the project in the best possible way 🙂🙃
+
+## Follow
+
+<p>
+ <a href="https://repl.it/@hesamtavakoli06">
+  <img src="https://img.shields.io/badge/Repl.it-gray?style=flat&logo=repl.it&labelColor=gray">
+ </a>
+</p>
+
+<p>
+ <a href="https://github.com/1nj3ct0rrr">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
+ </a>
+</p>
+
+<p>
+ <a href="https://codepen.io/1nj3ct0r">
+  <img src="https://img.shields.io/badge/CodePen-black?style=flat&logo=codepen&labelColor=black">
+ </a>
+</p>
+
+<p>
+ <a href="https://linkedin.com/in/1nj3ct0r">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ </a>
+</p>
+
+<p>
+ <a href="https://leetcode.com/1nj3ct0r/">
+  <img src="https://img.shields.io/badge/LeetCode-white?style=flat&logo=leetcode&labelColor=white">
+ </a>
+</p>
+
+<p>
+ <a href="https://www.hackerrank.com/1nj3ct0r">
+  <img src="https://img.shields.io/badge/HackerRank-black?style=flat&logo=hackerrank&labelColor=black">
+ </a>
+</p>
