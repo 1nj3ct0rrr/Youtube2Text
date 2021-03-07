@@ -1,4 +1,4 @@
-# Youtube2Video 📹
+# Youtube2Text 📹
 
 Using this project, you can download the said texts from Youtube videos 🙂🙃
 
