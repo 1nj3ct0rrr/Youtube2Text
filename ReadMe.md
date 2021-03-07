@@ -1,4 +1,12 @@
-# Youtube2Text 📹
+<h1>
+  Youtube2Text 📹 
+  <a href="https://colab.research.google.com/drive/11k-Jm6p_tTfwQNa0Uelbh50hVIeAGkIj?usp=sharing">
+    <img src="https://img.shields.io/badge/Colab-white?style=flat&logo=google-colab&labelColor=white">
+  </a>
+  <a href="https://repl.it/@hesamtavakoli06/Youtube2Text">
+    <img src="https://img.shields.io/badge/Repl.it-gray?style=flat&logo=repl.it&labelColor=gray">
+  </a>
+</h1>
 
 Using this project, you can download the said texts from Youtube videos 🙂🙃
 
